@@ -110,7 +110,7 @@ import pandas as pd
 import numpy as np
 
 #loaad dataset
-filepath='E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\weather-stations20140101-20141231.csv'
+filepath='weather-stations20140101-20141231.csv'
 pdf=pd.read_csv(filepath)
 pdf.head()
 
